@@ -3,7 +3,6 @@ import logo from "@/assets/images/logo.png";
 
 const Footer = () => {
   const year = new Date().getFullYear();
-  console.log(year);
 
   return (
     <footer className="bg-gray-200 py-4 mt-24">
